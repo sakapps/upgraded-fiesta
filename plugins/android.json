@@ -1,0 +1,31 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "com.saktest.www"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.saktest.www"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.saktest.www"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.saktest.www"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.saktest.www"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.saktest.www"
+        }
+    }
+}
